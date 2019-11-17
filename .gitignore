@@ -1,0 +1,24 @@
+$ cat .gitignore
+
+# игнорирование папки с временными копиями
+*Altium Project/Control Unit/History/
+*Altium Project/Power Unit/History/
+
+# игнорирование папки preview
+*Altium Project/Control Unit/__Previews
+*Altium Project/Power Unit/__Previews
+
+# игнорирование папки LOGS
+*Altium Project/Control Unit/Project Logs for Region_CU
+*Altium Project/Power Unit/Project Logs for Region_PU
+
+# игнорирование папки с STEP-моделями
+*Mechanical/
+
+
+# игнорирование всех превью и временных файлов
+*.PcbDocPreview
+*.SchDocPreview
+*.PrjPcb.Zip
+*.SchDoc.Zip
+*.LOG
