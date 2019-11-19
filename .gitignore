@@ -1,12 +1,15 @@
-$ cat .gitignore
+#$ cat .gitignore
 
 # игнорирование папки с временными копиями
 *Altium Project/Control Unit/History/
 *Altium Project/Power Unit/History/
+*Altium Project/Supply Unit/History/
+
 
 # игнорирование папки preview
 *Altium Project/Control Unit/__Previews
 *Altium Project/Power Unit/__Previews
+*Altium Project/Supply Unit/__Previews
 
 # игнорирование папки LOGS
 *Altium Project/Control Unit/Project Logs for Region_CU
