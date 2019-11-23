@@ -12,7 +12,7 @@ SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
-AllowPortNetNames=0
+AllowPortNetNames=1
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
@@ -456,9 +456,9 @@ Configuration4_Item4=Comment=True|Footprint=True
 Configuration4_Name5=OutputConfigurationParameter1
 Configuration4_Item5="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 Configuration4_Name6=SortOrder
-Configuration4_Item6=PartNumber=Up
+Configuration4_Item6=Designator=Up
 Configuration4_Name7=VisibleOrder
-Configuration4_Item7=Designator=98|PartNumber=139|Quantity=57|Manufacturer=91|MAX=55|Analog=72|Comment=349
+Configuration4_Item7=Designator=98|PartNumber=139|Quantity=57|Manufacturer=91|MAX=55|Analog=72
 OutputType5=ComponentCrossReference
 OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
