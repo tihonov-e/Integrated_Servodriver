@@ -56,7 +56,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UFKUFKPD
 
 [Document2]
-DocumentPath=Region_PU.OutJob
+DocumentPath=Power_unit-RM.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -71,6 +71,27 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document3]
+DocumentPath=PCB_power_unit.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NVLDQPJM
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Power_unit-RM\Design Rule Check - PCB_power_unit.html
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=..\..\..\..\..\..\Altium\Lib\Nordik-energy\AltiumLibrary\LibraryComponents\*.*
