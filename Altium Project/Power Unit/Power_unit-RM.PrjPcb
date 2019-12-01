@@ -89,6 +89,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVLDQPJM
 
+[Document4]
+DocumentPath=LIB\Power_unit-RM.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VVEFBUAQ
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Power_unit-RM\Design Rule Check - PCB_power_unit.html
 DItemRevisionGUID=
