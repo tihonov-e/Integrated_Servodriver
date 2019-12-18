@@ -1,0 +1,5 @@
+Move Component Origin to Grid
+Filename     : D:\Work\ElectroDrive\Регион рулевая машинка\Hardware\Altium Project\Control Unit\PCB_control_unit_1.PcbDoc
+Date         : 14.12.2019
+Time         : 20:42:18
+Time Elapsed : 00:00:00

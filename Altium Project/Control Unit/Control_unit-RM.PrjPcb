@@ -107,7 +107,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=PCB_control_unit.PcbDoc
+DocumentPath=PCB_control_unit_2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -122,6 +122,27 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLHEMTKS
+
+[Document6]
+DocumentPath=LIB\Control_unit-RM.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AMFTSBEF
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Control_unit-RM\Move Component(s) Origin To Grid - PCB_control_unit_1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
