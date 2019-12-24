@@ -1,9 +1,12 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [Supply_unit-RM.PrjPcb]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCB_supply unit.PcbDoc]
+   Generated File[PCB_supply unit.TXT]
+   Generated File[PCB_supply unit.LDP]
+   Generated File[PCB_supply unit.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 16:21:51 On 23.11.2019
+Finished Output Generation At 8:34:25 On 24.12.2019
