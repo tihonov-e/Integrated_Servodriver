@@ -1,0 +1,13 @@
+DRC Rules Export File for PCB: D:\Work\Diakont\ElectroDrive\Регион рулевая машинка\Hardware\Altium Project\Power Unit\PCB_power_unit.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Polygon|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance_Phases|Scope=Board|Minimum=15.75
+RuleKind=Width|RuleName=Width Silk|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion-1|Scope=Board|Minimum=3.54
+RuleKind=Width|RuleName=Width 1 Oz|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance-1 1 Oz|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=KeepOutTrack to Polygon|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance_DCBUS|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_+27V and PGND|Scope=Board|Minimum=19.69
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_1|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_MultiLayerPad|Scope=Board|Minimum=9.84
