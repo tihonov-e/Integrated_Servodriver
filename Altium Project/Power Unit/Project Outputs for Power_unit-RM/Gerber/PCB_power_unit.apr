@@ -10,7 +10,7 @@ D18   RECTANGULAR       129.921      39.370       0.000 FLASH       0.000
 D19   RECTANGULAR        47.244      62.992       0.000 FLASH      90.000
 D20   RECTANGULAR       102.362      43.307       0.000 FLASH     180.000
 D21   RECTANGULAR        47.244      62.992       0.000 FLASH       0.000
-D22   RECTANGULAR        62.992     125.984       0.000 FLASH      90.000
+D22   RECTANGULAR        62.992     125.984       0.000 FLASH     270.000
 D23   RECTANGULAR        51.181      59.055       0.000 FLASH     180.000
 D24   ROUNDED            23.622      23.622       0.000  LINE       0.000
 D25   ROUNDED            19.685      19.685       0.000  LINE       0.000
@@ -60,7 +60,7 @@ D68   RECTANGULAR       137.008      46.457       0.000 FLASH       0.000
 D69   RECTANGULAR        54.331      70.079       0.000 FLASH      90.000
 D70   RECTANGULAR       109.449      50.394       0.000 FLASH     180.000
 D71   RECTANGULAR        54.331      70.079       0.000 FLASH       0.000
-D72   RECTANGULAR        70.079     133.071       0.000 FLASH      90.000
+D72   RECTANGULAR        70.079     133.071       0.000 FLASH     270.000
 D73   RECTANGULAR        58.268      66.142       0.000 FLASH     180.000
 D74   ROUNDED            62.205      62.205       0.000 FLASH       0.000
 D75   RECTANGULAR        85.827      66.142       0.000 FLASH     180.000
