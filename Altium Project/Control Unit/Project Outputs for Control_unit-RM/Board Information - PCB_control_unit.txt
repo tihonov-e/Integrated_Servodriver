@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\Work\Diakont\ElectroDrive\Регион рулевая машинка\Hardware\Altium Project\Control Unit\PCB_control_unit.PcbDoc
+Date         : 25.01.2020
+Time         : 12:30:31
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100,00%
+    Connections, 270
+    Connections routed, 270
+    Connections remaining, 0
+count : 4

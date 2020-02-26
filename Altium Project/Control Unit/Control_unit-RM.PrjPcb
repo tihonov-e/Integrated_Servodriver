@@ -124,23 +124,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HLHEMTKS
 
 [Document6]
-DocumentPath=LIB\PCB_control_unit.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NRXKABVV
-
-[Document7]
 DocumentPath=LIB\Control_unit-RM.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,6 +139,27 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KJCIJJLL
+
+[Document7]
+DocumentPath=PCB_control_unit.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MNILFVJX
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Control_unit-RM\Board Information - PCB_control_unit.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

@@ -107,7 +107,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VVEFBUAQ
 
 [Document5]
-DocumentPath=LIB\PCB_power_unit.PcbLib
+DocumentPath=PCB_power_unit.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -121,7 +121,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LSEWOPAO
+DocumentUniqueId=DEYDJOAU
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Power_unit-RM\Design Rule Check - PCB_power_unit.html

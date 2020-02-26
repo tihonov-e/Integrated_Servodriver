@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB_control_unit.PcbDoc   10.01.2020  8:33:02
+NCDrill File Report For: PCB_control_unit.PcbDoc   26.01.2020  20:35:43
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,13 +8,12 @@ ASCII SlotHoles File : PCB_control_unit-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             117       PTH        409.98mm (16.14inch)
-T2      0.4mm (16mil)                                             Round             6         PTH        31.00mm (1.22inch)
-T3      0.8mm (31mil)                                             Round             20        PTH        86.06mm (3.39inch)
-T4      1.1mm (43mil)                                             Round             18        PTH        50.80mm (2.00inch)
-T5      2.2mm (87mil)                                             Round             4         NPTH       46.00mm (1.81inch)
-T6      3mm (118mil)                                              Slot              4         NPTH       270.07mm (10.63inch)
+T1      0.3mm (12mil)                                             Round             126       PTH        452.89mm (17.83inch)
+T2      0.8mm (31mil)                                             Round             20        PTH        89.10mm (3.51inch)
+T3      1mm (39mil)                                               Round             18        PTH        49.46mm (1.95inch)
+T4      2.2mm (87mil)                                             Round             4         NPTH       46.00mm (1.81inch)
+T5      3mm (118mil)                                              Slot              4         NPTH       270.07mm (10.63inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              169
+Totals                                                                              172
 
 Total Processing Time (hh:mm:ss) : 00:00:00
